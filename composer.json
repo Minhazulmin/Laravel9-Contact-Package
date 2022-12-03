@@ -1,0 +1,19 @@
+{
+    "name": "minhazulmin/contact",
+    "description": "This is use to send mail to author and also database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Minhazulmin\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "minhazulmin",
+            "email": "minhazul234@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
