@@ -1,4 +1,4 @@
-## This package is no production purpose. 
+## This package I made for only testing purpose. 
 
 ## Installation
 Package is installable via npm.
